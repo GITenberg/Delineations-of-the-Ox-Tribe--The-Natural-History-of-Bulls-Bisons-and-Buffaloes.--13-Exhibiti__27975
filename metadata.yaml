@@ -1,0 +1,35 @@
+_repo: Delineations-of-the-Ox-Tribe--The-Natural-History-of-Bulls-Bisons-and-Buffaloes.--13-Exhibiti__27975
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vasey, George
+    birthdate: 1822
+    deathdate: 1893
+    gutenberg_agent_id: '33051'
+    url: http://www.gutenberg.org/2009/agents/33051
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27975'
+  lccn: ca09003505
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cattle'
+- !lcsh 'Oxen'
+- !lcsh 'American bison'
+- !lcc 'QL'
+- !lcsh 'Buffaloes'
+title: "Delineations of the Ox Tribe: The Natural History of Bulls, Bisons, and Buffaloes.\r\
+  \nExhibiting all the Known Species and the More Remarkable Varieties of the Genus\
+  \ Bos."
+url: http://www.gutenberg.org/ebooks/27975
